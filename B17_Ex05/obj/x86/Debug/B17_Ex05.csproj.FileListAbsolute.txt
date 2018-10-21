@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.exe.config
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.exe
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.pdb
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\BullsAndCows.dll
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\BullsAndCows.pdb
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.FormColorSelection.resources
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.Properties.Resources.resources
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.exe
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.pdb

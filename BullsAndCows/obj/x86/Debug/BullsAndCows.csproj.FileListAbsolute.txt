@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\bin\Debug\BullsAndCows.dll
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\obj\x86\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\obj\x86\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\obj\x86\Debug\BullsAndCows.dll
+C:\Users\User\Desktop\Projects\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\obj\x86\Debug\BullsAndCows.pdb
